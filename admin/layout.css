@@ -1,0 +1,12 @@
+#trangchu {text-align:center; background-color:blue;padding:20px}
+#trangchu a{text-decoration:none;color:white; font-size:26px}
+#menu { background-color:green;text-align:center;}
+#menu-border{border-right-style:solid; border-color:white}
+#menu a{ color:white; font-size:14px;margin:4px;text-decoration:none}
+#menu a:hover{background-color:red}
+
+
+#center{text-align:center}
+.border{
+	border: 2px dotted red;
+}

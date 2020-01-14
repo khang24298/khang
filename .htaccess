@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteRule "khangnguyen.html" "index.php"
+RewriteRule "khangnguyen.html" "index.php"
